@@ -1,4 +1,3 @@
-```markdown
 # Bot Memes
 
 Bot Memes is a Telegram bot that allows users to get random memes and neural network-generated memes using simple commands.
@@ -61,4 +60,3 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push to the branch: `git push origin feature-name`.
 5. Create a pull request.
 
-```
