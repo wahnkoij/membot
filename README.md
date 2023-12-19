@@ -26,7 +26,7 @@ Bot Memes is a Telegram bot that allows users to get random memes and neural net
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/wahnkoij/membot.git
+   git clone https://github.com/wahnkoij/membot
    cd membot
    ```
 
