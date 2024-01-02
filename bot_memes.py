@@ -3,9 +3,9 @@ import json
 
 from aiogram import Bot, Dispatcher, executor, types
 from get_memes_for_api import get_memes
-# from get_neiro_memes import get_neiro_memes
+from get_neiro_memes import get_neiro_memes
 
-token = '6601338594:AAFxOEDnBYdCtEHjShdJwdn-Xu8ak1X_pyg'
+token = 'your_token'
 bot = Bot(token=token)
 disp = Dispatcher(bot)
 
@@ -38,5 +38,5 @@ async def parser_memes(message: types.Message):
 
 if __name__ == '__main__':
     get_memes("https://api.memegen.link/images")
-    # get_neiro_memes()
+    get_neiro_memes()
     executor.start_polling(disp, skip_updates=True)
