@@ -8,7 +8,6 @@ Bot Memes is a Telegram bot that allows users to get random memes and neural net
 - [Installation](#installation)
 - [Commands](#commands)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
